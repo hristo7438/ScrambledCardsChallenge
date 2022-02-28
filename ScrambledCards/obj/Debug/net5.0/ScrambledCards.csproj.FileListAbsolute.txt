@@ -1,0 +1,16 @@
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ScrambledCards.exe
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ScrambledCards.deps.json
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ScrambledCards.runtimeconfig.json
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ScrambledCards.runtimeconfig.dev.json
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ScrambledCards.dll
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ref\ScrambledCards.dll
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\bin\Debug\net5.0\ScrambledCards.pdb
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.csproj.AssemblyReference.cache
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.AssemblyInfoInputs.cache
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.AssemblyInfo.cs
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.dll
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ref\ScrambledCards.dll
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.pdb
+C:\Users\Hristo\Desktop\New folder\Hiring-Deck-of-Cards-main\ScrambledCards\ScrambledCards\ScrambledCards\obj\Debug\net5.0\ScrambledCards.genruntimeconfig.cache
